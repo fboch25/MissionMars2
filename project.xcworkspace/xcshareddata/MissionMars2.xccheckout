@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>79ECF1C0-A176-4D4D-96BD-139475E99F87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MissionMars2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>786184C14D55F30083A12656332518C6FD87BC7E</key>
+		<string>https://github.com/oliviaiscool/GetBig.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShortAndTall.spritebuilder/MissionMars2.spritebuilder/MissionMars2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>786184C14D55F30083A12656332518C6FD87BC7E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/oliviaiscool/GetBig.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>786184C14D55F30083A12656332518C6FD87BC7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>786184C14D55F30083A12656332518C6FD87BC7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>InfiniteRunner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
